@@ -18,6 +18,6 @@ This project is part of a step-by-step YouTube tutorial in which we build a resp
 ## 📥 Clone or Fork the repository
 You can **clone** the repository to your local machine or **fork** it in your GitHub account to get all the project's resources.
 
-Designed & developed with ❤️ by **[Sushil Deshmukh]**
+Designed & developed with ❤️ by **Sushil Deshmukh**
 
 ![preview img](/preview.png)
