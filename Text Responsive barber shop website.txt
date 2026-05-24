@@ -92,8 +92,8 @@ Barber
 
 ✅.expert__link
 https://www.linkedin.com/
-https://www.instagram.com/bedimcode
-https://www.facebook.com/bedimcode
+https://www.instagram.com/sushildeshmukh.07
+https://www.facebook.com/sushildeshmukh
 
 
 ========== CONTACT SECTION ==========
@@ -155,18 +155,18 @@ Write to us
   WhatsApp
     https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
   Messenger
-    https://m.me/bedimcode
+    https://m.me/sushildeshmukh
   Telegram
     https://web.telegram.org
   Gmail
     mailto:barbershop@email.com
 
 Social
-https://www.facebook.com/bedimcode
-https://www.instagram.com/bedimcode/
-https://x.com/bedimcode/
-https://www.youtube.com/@Bedimcode/
+https://www.facebook.com/sushildeshmukh
+https://www.instagram.com/sushildeshmukh.07/
+https://x.com/sushildeshmukh/
+https://www.youtube.com/@Sushildeshmukh/
 
 
 ✅.footer__copy
-&#169; All Rights Reserved By Bedimcode
+&#169; All Rights Reserved By Sushil Deshmukh
